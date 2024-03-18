@@ -209,14 +209,14 @@ No, Jasper, Copy.ai, they're not enough.
 
 I can do the hand-wavey "do right by the customer and bundle+resell undisclosed best-in-market software/services while my solution lags behind, because value delivery is better than underperforming" classic b2b strats myself. Even productize whatever amalgamation into something useful and novel.
 
-### I guarantee you, oh blessed *Optimal One* here and now, well, whatever you want... multiple six-figures cash this year if that's all it is u shortsighted fuck I do not just Capitalize Perfect enterprise logo for fun 
+### I guarantee you, oh blessed *Optimal One* here and now, well, what do you want? Six figures cash this year guaranteed, and/or equity ofc, I do not just capitalize Perfect enterprise logo for fun 
 
 ### killer company wants me in their base like,
 ### "ay our side is ready now: behold."
 #### and for them to be like "😎," 
 and proceed to yeet us into the Based beyond.  fr.
 
-so DM me on X, you fuck!!!! [@basedanarki](https://x.com/basedanarki)
+so DM me on X!!! talk to me [@basedanarki](https://x.com/basedanarki)
 
 #### ...If you want to then be invited into a room as one of the "young cracked bois/girls" and the room is motherfuckers responsible for billions per year, literally making decisions as old people doing pretty OK with AI, saving billions, making billions, seriously. 
 

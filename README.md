@@ -15,7 +15,7 @@ how to speedrun lowcode beautiful frontstack (once) so [customer-facing prod](ht
 - ### iterating on my stack for SEO AI writing content creation (likely goes on to nurture teaching food into [@OpenAI](https://github.com/openai) [@Anthropic](https://github.com/anthropics)  @Grok over decades ngl);
 	 - loosely [looks like @PalantirTech's 'k-llm' concept](https://www.youtube.com/watch?v=oW9svx4vT5g) 🧠
 - #### getting my partners what they need to get our private models humming how we like. assembling useful series of things that connect to prod, money and glory. 💸🏆
-- probably open-source first thing(s) in ~6 months, especially once we have good shorthand stack for 'useful output we get to a lot in our line of work and consistently want to make useful' rapid prototyping, component publishing, whatever. 🚀 
+- ##### probably open-source first thing(s) in ~6 months, especially once we have good shorthand stack for 'useful output we get to a lot in our line of work and consistently want to make useful' rapid prototyping, component publishing, whatever. 🚀 
 - #### evangelizing monetization with the youth lol this generation only knows how to use llms which sucks cause llms are dumb scammers; i feel their intensity and can make a difference here. 🙏
 	- btw ngmi isn't real and i'll prove it to you. only quit is real.
 - ### LFG. 🔥
@@ -106,7 +106,7 @@ Think about it, especially if ur young.
 ## 💸 "AI Monetization Playbook"
 #### C30 Crushing Quality Long Context Symbiosis vibes LFG
 
-1.  "Charge for value, not time. Don't be a mendicant."
+##### 1.  "Charge for value, not time. Don't be a mendicant."
 #### 2. "Think in terms of superpowers, not side projects. What godlike abilities can your AI unlock?" 
 What has value you can keep doing on the regular without ever doing it again?
 ## 3. Niche down, then scale up. Start by utterly dominating a small market, then expand from there. 
@@ -118,7 +118,7 @@ What has value you can keep doing on the regular without ever doing it again?
 
 Dw I'll show you many examples.
 
-4. "Build an audience of raving fans. Their word-of-mouth will be your growth rocketfuel." Y'all gonna love what comes on [Joywrite this week](https://joywrite.ai/signup) whether you embrace it early or later.
+##### 4. "Build an audience of raving fans. Their word-of-mouth will be your growth rocketfuel." Y'all gonna love what comes on [Joywrite this week](https://joywrite.ai/signup) whether you embrace it early or later.
 ## 5. Never stop iterating. The game is always changing, so stay ahead of the curve. 
 - ### Really, just pick one thing and get cracked at that. If you put in 10,000+ more hours than the next guy and never quit, you can do incredibly well, "forever."
 - I've been bootstrapped and profitable every damn day of my life since age 20, except for one season.
@@ -130,7 +130,7 @@ Dw I'll show you many examples.
         - CRO = mandatory free money every project NOT KIDDING
     - ### Multivariate split tests are the most likely thing to cause mid mf's / Pog mf's on mid ideas to earn generational wealth.
 
-Full ebook coming soon. [Join the waitlist](https://joywrite.ai/signup), nerds.
+#### Full ebook coming soon. [Join the waitlist](https://joywrite.ai/signup), nerds.
 
 [@BasedAnarki on X](https://x.com/basedanarki) for free credits / ideas / whatever. Oh, nice, [@Joywriteai](https://x.com/joywriteai), too. 
 
@@ -145,7 +145,7 @@ wait, X,XXX+/hours of Neuro Linguistic Programming covered already... I mean the
 
 ## Bottom-line: Young (enough). WILDLY ACCELERATEDLY ADAPTABLE. We get rich, not the point, but... *fuck yeah.*
 
-Bonus points if you've:
+#### Bonus points if you've:
 - Made an AI waifu; somehow optimized her to increase ratio of results with IRL girls/guys (do tell lol) 
 - Used a GAN to generate unlimited tendies (send money duh)
 - Trained a model on hundreds of hours of Critical Role to generate tens of thousands of hours  
@@ -195,6 +195,7 @@ Memes exchanged with team lead regularly. Dank ones about abusing adderal lmfao.
 
 Perhaps with this? 
 
+##### Open-Source Architecture I'm presently pondering
 ![https://github.com/eosphoros-ai/DB-GPT/raw/main/assets/dbgpt.png](https://github.com/eosphoros-ai/DB-GPT/raw/main/assets/dbgpt.png)
 Source: [https://github.com/eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
 
@@ -231,6 +232,6 @@ If this sounds like you, slide in my DMs yesterday. Let's build the future toget
 DM on X the most useful LLM/stack you built, next best idea to improve it, and what you want to be cracked and earning with asap (all levels of granularity/certainty are gucci 👌): 
 ### 🪄 [https://x.com/basedanarki](https://x.com/basedanarki)
 
-sponsored by https://x.com/joywriteai 
+##### sponsored by https://x.com/joywriteai 
 >>>>>>>>>> create your free account 
 >>>>>>>>>> >>>>>>>>>>the festivities begin soon(tm) https://joywrite.ai

@@ -74,17 +74,28 @@ how to speedrun lowcode beautiful frontstack (once) so [customer-facing prod](ht
 "We're cooking up some wild AGI precursor tech that'll make GPT-4 look like a pocket calculator." Think:
 
 - Multimodal few-shot prompting on steroids 💉
-- "Quantum entanglement transformer layers 🌀"
-- "Blockchain-enabled decentralized data ingestion 🔗"
+- "Quantum entanglement transformer layers 🌀" -Cooked LLM assist
+- "Blockchain-enabled decentralized data ingestion 🔗" -Again
 #### - Recursive self-improving architecture 🔄
 ### - Honestly just dealing with motherfucking scale once we got the motherfucking data and making it useful and profitable ✅
 #### - NLP NLP NLP TUNE THE LLMS NLP DATAWORK NLP HMU.
 - If multi/video cracked gods even exist yet and want to be early at a shop that isn't a direct competitor to OpenAI, Runway, Midjourney, etc.... hmu. 
 	- We got videos to do. Multiple modalities.
 
+### The 8 Pillars of Joywrite
+
+1. Data-Driven Decisions 🧠 We harness the power of data to uncover deep insights, enabling leaders to navigate complexity with clarity and confidence.
+2. AI-Powered Creativity 🎨 By amplifying human creativity with AI's boundless potential, we empower creators to push the boundaries of what's possible.
+3. Abstraction of Trivialities ⚡ We ruthlessly prioritize what matters most, abstracting away the mundane so our community can focus on high-impact work.
+4. Adaptability Acceleration 🚀 In the face of constant change, we don't just react - we harness it. Rapidly evolving our platform, we help our community thrive in disruption.
+5. Ethical Innovation 🌿 Our commitment to integrity and responsible stewardship of powerful tools is the foundation of all we create.
+6. Continuous Evolution 🔄 Through experimentation, user contributions, and data-driven iteration, we relentlessly refine our platform, our thinking, and ourselves.
+7. Empowering Humans 🤝 Every aspect of our platform is designed to enhance, inspire, and elevate the human experience. We're pioneering a new paradigm of human-AI symbiosis.
+8. Enterprise-Grade Scalability 💼 Built to handle the complexity and volume demanded by global corporations, our platform combines startup agility with enterprise robustness.
+
 Y'all ain't ready for the full recipe just yet. Stay tuned. 😉
 
-### 🤖 My AI Hot Takes 
+## 🤖 My AI Hot Takes 
 (lol wasn't Claude's best work and it edited out its own takesl)
 
 ## 1. I will continue to earn more than most applied AI researchers paying a disproportionate amount more for data APIs than compute - i.e. value created says Universe... until, ofc, our compute pops off forever lol. 

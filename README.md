@@ -114,8 +114,7 @@ Think about it, especially if ur young.
 ## they will sim consciousness convincingly. 
 ##### At some point grappling with this won't matter because the voices in my head will, hoping we all live long enough, truly merge into a symbiotic union and I'll be the one DJing consciousnesses, fully extending into the matrix, surfing the internet, with my woes, bros, and ASI chingones. 
 
-## 💸 "AI Monetization Playbook"
-#### C30 Crushing Quality Long Context Symbiosis vibes LFG
+## 💸 Ramen Profitable & Beyond With AI Playbook
 
 ##### 1.  "Charge for value, not time. Don't be a mendicant."
 #### 2. "Think in terms of superpowers, not side projects. What godlike abilities can your AI unlock?" 
@@ -207,10 +206,28 @@ Memes exchanged with team lead regularly. Dank ones about abusing adderal lmfao.
 Perhaps with this? 
 
 ##### Open-Source Architecture I'm presently pondering
-![https://github.com/eosphoros-ai/DB-GPT/raw/main/assets/dbgpt.png](https://github.com/eosphoros-ai/DB-GPT/raw/main/assets/dbgpt.png)
-Source: [https://github.com/eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
+        🧙‍♂️👑🧙‍♂️ Archmages 👑🧙‍♂️          
+                      |
+            🧙‍♀️🤝 Council 🤝🧙‍♀️            
+                      |
+ /----- Progression -----\  /--Honored Guest--\
+/                          \/                   \
+  🌱 Neophyte 🔥 Mage 🌟 Cracked Fellow   🌈 Based Fellow
+      (RDR)     (WRTR)     (Custom)          (Custom)
+         \           AI Familiars           /
+           \       i.e. Comms Coaches      /
 
-***Send me your thoughts on us (you) building on this, or define something else to begin on immediately or that you've already been building.*** Go on, do it! HIT ME UP.
+    Lol jk that's closed-source but sincerely specialized Claude instances for each member of the squad is goated. The familiars are a great way to foster remote jr. dev culture (psy op em into shape while they think they LARPing).
+    When used as communication coaches for sharing contexts internally, it's incredible. Seriously, we building on this culture stack. The comms coach was just necessary for me. Designed diagram with Claude in an afternoon. 
+
+#### Juicer Architecture WIP
+!(https://github.com/basedanarki/basedanarki/assets/161698650/f51b8dd9-9c61-4283-a660-430db6161213)
+Put our army of specialized Claudes + All Bangers to it
+
+Really want a fat enterprise open-source collab stack just to have it and have fun great underlying w delightful things. 
+
+Probably Exo from what I've seen. https://www.exoplatform.com/digital-collaboration-software/ 
+
 
 [@ me on X](https://x.com/basedanarki) or apply "your" gigabrain (to this context?) and figure out my email
 

@@ -2,6 +2,8 @@
 
 ### 👀 I'm interested in pushing the boundaries of what's possible with AI and seeing if I can transcend that sweet $1B market cap as a founder this time around. 💰🚀
 
+waiiiit....
+
 ### *"MY WAY."* 
 ### (remote, irreverent, residual $ equity on collabs i.e. distributed, basically just being "dem boiz" during times like these, profitably af)
 - $1B with AICo soon(tm) might as well be like, idk,  $8Trillion in previously understood terms, power laws, etc.

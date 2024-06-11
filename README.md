@@ -16,7 +16,11 @@
 
 I'm diving deep into automating fullstack/ML Python development to make **[@arXivBangers](https://x.com/arXivBangers)** more fun and effective until it LGTM. Modern frontend up next (React Native? Typescript? IDKYetExtendies?)!
 
-Then, Enterprise. Generative. Multimodal. Agentic... basically the most cracked, self-improving, working 24/7 teams scaled up underneath a social-professional workflow app that just makes sense. Cheapest ROI of all-time --and we do mean _all-time_-- if you've got B's. Share your data so we can make it useful if you've got or are getting M's. Easy! _Soon™!_
+Then, Enterprise. Generative. Multimodal. Agentic... 
+
+Basically the most cracked, self-improving, working 24/7 teams scaled up underneath a social-professional workflow app that just makes sense. Cheapest ROI of all-time --and we do mean _all-time_-- if your org stewards $B's.
+
+Talk to me about your data/reality so we can make it useful if you've got $M's coming in or are on track. Easy! _Soon™!_
 
 ### Always On My Mind:
 
@@ -50,7 +54,7 @@ If you're looking for the latest and greatest (or the alpha versions of my tools
 - **[@_akhaliq](https://twitter.com/_akhaliq)** - The "market leader" in AI research paper amplification (🤗/papers).
 - **[@arXivBangers](https://twitter.com/arXivbangers)** - The new disruptive blasters of science... research paper amplification.
 
-###  🪄 Fun Fact: I grinded from Unranked to *Rank #1 World in Magic: The Gathering Arena* in 8 weeks!
+###  🪄 Fun Fact: I grinded from *Rank #1 World in Magic: The Gathering Arena* from Unranked in 8 weeks!
 
 Just like in every situation where someone gets astronomically lucky, this was based on timing. I'm not giving time to discover which game format and deck, if any, have great timing anytime soon —look at how fast AI, everything, is popping off!
 
@@ -60,7 +64,7 @@ Just like in every situation where someone gets astronomically lucky, this was b
 
 I'm all about helping cracked AI devs and researchers monetize both your projects and mine. This includes young people who don't know they're cracked yet—just have good work ethic, literally work all day and all night on relevant stuff, and the money comes pretty early if you're trying even remotely hard.
 
-You don’t have to work at a multi-billion-trillion AI lab; let's do a distributed one OUR WAY and do it kickass. (join me!) 🌐🧠
+You don’t have to work at a multi-billion-trillion AI lab; let's do a distributed one OUR WAY and do it kickass. (join us!) 🌐🧠
 
 ## 📫 How to Reach Me
 Let’s connect and build something revolutionary! You can reach me at [https://x.com/BasedAnarki](https://x.com/basedanarki).

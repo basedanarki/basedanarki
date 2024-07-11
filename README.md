@@ -54,7 +54,7 @@ If you're looking for the latest and greatest (or the alpha versions of my tools
 - **[@_akhaliq](https://twitter.com/_akhaliq)** - The "market leader" in AI research paper amplification (🤗/papers).
 - **[@arXivBangers](https://twitter.com/arXivbangers)** - The new disruptive blasters of science... research paper amplification.
 
-###  🪄 Fun Fact: I grinded from *Rank #1 World in Magic: The Gathering Arena* from Unranked in 8 weeks!
+###  🪄 Fun Fact: I grinded to *Rank #1 World in Magic: The Gathering Arena* from Unranked in 8 weeks!
 
 Just like in every situation where someone gets astronomically lucky, this was based on timing. I'm not giving time to discover which game format and deck, if any, have great timing anytime soon —look at how fast AI, everything, is popping off!
 
@@ -62,7 +62,7 @@ Just like in every situation where someone gets astronomically lucky, this was b
 
 ### 💞️ Looking to Collaborate
 
-I'm all about helping cracked AI devs and researchers monetize both your projects and mine. This includes young people who don't know they're cracked yet—just have good work ethic, literally work all day and all night on relevant stuff, and the money comes pretty early if you're trying even remotely hard.
+I'm all about helping yoated AI devs and researchers monetize both your projects and mine. This includes young people who don't know they're yoated yet—just have good work ethic, literally work all day and all night on relevant stuff, and the money comes pretty early if you're trying even remotely hard.
 
 You don’t have to work at a multi-billion-trillion AI lab; let's do a distributed one OUR WAY and do it kickass. (join us!) 🌐🧠
 

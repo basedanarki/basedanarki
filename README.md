@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [@BasedAnarki](https://x.com/BasedAnarki)
 
-### ⚡ I'm on a limit-seeking adventure with AI, aiming to scale past sweet $1B valuation in a _cool_ way.
+### ⚡ I'm on a limit-seeking adventure with AI, aiming to scale past sweet $10B valuation in a _cool fun_ way.
 
 #### "MY WAY."
 
@@ -10,24 +10,26 @@
 - radiant,
 - unencumbered,
 - having a good time...
-- joywriting.)
+- **joywriting.**)
 
 ### 🌱 What I'm mastering now...
 
-I'm diving deep into automating fullstack/ML Python development to make **[@arXivBangers](https://x.com/arXivBangers)** more fun and effective until it LGTM. Modern frontend up next (React Native? Typescript? IDKYetExtendies?)!
+I'm diving deep into automating Python codegen to make **[@arXivBangers](https://x.com/arXivBangers)** more fun and effective until it LGTM. *UPDATE This is not strictly true anymore as the b2b saas people have me but I'm being fed/watered and they assure me it's more about raw power and protecting algebra than almost any amount of recurring revenue. /shrug*
 
-Then, Enterprise. Generative. Multimodal. Agentic... 
+Generative. Lifelong. Enterprise. Agentic. Multimodal... 
 
-Basically the most cracked, self-improving, working 24/7 teams scaled up underneath a social-professional workflow app that just makes sense. Cheapest ROI of all-time --and we do mean _all-time_-- if your org stewards $B's.
+Enlightened cities of little Demigods who just loving working. Basically, businesspeople got retargeting and they've got this when it comes to the greatest ROI of all-time. And they're all out of retargeting. 
 
-Talk to me about your data/reality so we can make it useful if you've got $M's coming in or are on track. Easy! _Soon™!_
+Yeah they're specialized but what's it to ya? Lol reach out, friendo, happy to exchange ideas with fellow AI city planners.
+
+(Talk to me about your data/reality so we can make it more useful, monetized, visible, *invisible*... if you've got $M's or think you're on track. Easy!)
 
 ### Always On My Mind:
 
-- **Our Forward-Looking Multimodal Stack --> Product:** Iterating on --> build/rent/optimize --> our stack for conversion-oriented enterprise content generation with a strong background in SEO and organic discovery optimization.
-  - This includes increasingly valuing LLM Discovery Optimization as AI labs with widely adopted LLMs like [@OpenAI (Chat-GPT)](https://github.com/openai), [@Anthropic (Claude)](https://github.com/anthropics), [@xAI (Grok)](https://github.com/xai-org), and [@Meta (Facebook/Llama)](https://github.com/facebook) continue to eat the human learning/discovery process.
-  - Building [Palantir's 'k-llm' framework](https://www.youtube.com/watch?v=oW9svx4vT5g) internally... except our content by design swims up these streams! GenAI is so *fun.* 🧠
-- **Helping the Next Generation with Monetization:** Engaging with zoomers who feel an urgency and possess a vibrant energy, yet aren't subject matter experts (SMEs) in AI... yet. There's so much they can do and generally, they don’t know WTF to do—LOL.
+- **Our Forward-Looking Multimodal Stack --> conversion-oriented enterprise content generation with a strong background in SEO and organic discovery optimization. Directing attention for fun and profit.
+  - This includes increasingly valuing LM Discovery Optimization as AI labs with widely adopted LLMs like [@OpenAI (Chat-GPT)](https://github.com/openai), [@Anthropic (Claude)](https://github.com/anthropics), [@xAI (Grok)](https://github.com/xai-org), [@Meta (Facebook/Llama)](https://github.com/facebook), *and their loyal agentic wrappers* continue to eat "manual" human discovery processes.
+  - [Palantir's 'k-llm' framework](https://www.youtube.com/watch?v=oW9svx4vT5g) framework is neat... Mixture of Possibly Great Ideas ya gotta love it. GenAI is so *fun.* 🧠
+- **Helping the Next Generation with Monetization:** Engaging with zoomers who feel an urgency and possess a vibrant energy, yet aren't subject matter experts (SMEs) in AI, swe, or otherwise... yet. There's so much they can do and generally, they don’t know WTF to do—LOL.
   
 ### Recent Open Source Contributions:
 
@@ -37,13 +39,13 @@ If you're looking for the latest and greatest (or the alpha versions of my tools
 
 <img src="https://github.com/basedanarki/basedanarki/assets/161698650/a0cc1b46-a178-4cca-a115-1f15f6600ef9" width="48%"> <img src="https://github.com/basedanarki/basedanarki/assets/161698650/4e29c35f-6ffd-4513-93b6-b5496213b2a1" width="48%">
 
-- [Github2fullstack.py](https://github.com/basedanarki/github2fullstack) - The most magical thing I've seen in recent GenAI memory as paradigm-shifts go was dumping my repo along with a couple repos I wanted to add and descriptions of features new and extended into a Claude 3 Opus chat box and watching it reply with perfectly usable code. That doesn't always happen and I recently extended this to have much greater modularity on the CLI to force add certain types of files and directories (like markdown /docs/ explaining component library usage but not markdown theming instructions, etc etc). Useful!
+- ([Just use code2prompt](https://github.com/raphaelmansuy/code2prompt); this has been solved) ~~[Github2fullstack.py](https://github.com/basedanarki/github2fullstack) - The most magical thing I've seen in recent GenAI memory as paradigm-shifts go was dumping my repo along with a couple repos I wanted to add and descriptions of features new and extended into a Claude 3 Opus chat box and watching it reply with perfectly usable code. That doesn't always happen and I recently extended this to have much greater modularity on the CLI to force add certain types of files and directories (like markdown /docs/ explaining component library usage but not markdown theming instructions, etc etc). Useful!~~
 
 ### 🧠 AI Devs I Admire:
-- **[@karpathy](https://github.com/karpathy)** - The GOAT 🐐
-- **[@minimaxir](https://github.com/minimaxir)** - GPT whisperer; his work makes me want to improve constantly.
+- **[@karpathy](https://github.com/karpathy)** - The GOAT 🐐👑
+- **[@minimaxir](https://github.com/minimaxir)** - GPT whisperer often prompting freak insight shit making want to improve.
+- **[@khoomeik](https://github.com/KhoomeiK)** - Computer Vision? Eh, sometimes. Computer Vision _FOR LLMs?_ That's why we're in this business.
 - **[@lvwerra](https://github.com/lvwerra)** - Protagonist or 1-degree away in movie ASIs making rebuilding everything.
-- **[@mattshumer_](https://x.com/mattshumer_)** - Sends AI memes and copypasta OSS.
 - **[@prmshra](https://twitter.com/prmshra)** - A force of nature, a biology one, who might just cure cancer or save us all. 🌞
 
 ### 💎 High-Signal AI Follows:
@@ -56,9 +58,9 @@ If you're looking for the latest and greatest (or the alpha versions of my tools
 
 ###  🪄 Fun Fact: I grinded to *Rank #1 World in Magic: The Gathering Arena* from Unranked in 8 weeks!
 
-Just like in every situation where someone gets astronomically lucky, this was based on timing. I'm not giving time to discover which game format and deck, if any, have great timing anytime soon —look at how fast AI, everything, is popping off!
+Just like in every situation where someone gets astronomically lucky, this was based on timing. I will not be defending this or any belt you'd know of soon —look at how fast AI, everything, is popping off! _FOOM, GO, FOOM, GET IT! HYPERPARAMETERS GRIP 'EM AND RIP 'EM!_ But not in MTG.
 
-### 😄 Pronouns: Dude, M'lord
+### 😄 Pronouns: Dude, DUDE, King, Kingaling (all rhyming King derivatives so far so good)
 
 ### 💞️ Looking to Collaborate
 
@@ -67,8 +69,8 @@ I'm all about helping yoated AI devs and researchers monetize both your projects
 You don’t have to work at a multi-billion-trillion AI lab; let's do a distributed one OUR WAY and do it kickass. (join us!) 🌐🧠
 
 ## 📫 How to Reach Me
-Let’s connect and build something revolutionary! You can reach me at [https://x.com/BasedAnarki](https://x.com/basedanarki).
+Let’s connect _and build_! You can reach me at [https://x.com/BasedAnarki](https://x.com/basedanarki).
 
-If you’re ready to disrupt the status quo with me, slide into my DMs, join the conversation, or just start by clicking the follow: https://github.com/basedanarki/
+If you’re ready to disrupt the status quo with me, slide into my DMs, join the conversation, or just start by (c'mon c'mon run it up, baby) clicking the follow: https://github.com/basedanarki/
 
-### ACCELERATE! 🧙‍♂️⏩🚀
+### ACCELERATE! 🧙‍♂️⏩

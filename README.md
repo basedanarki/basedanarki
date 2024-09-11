@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [@BasedAnarki](https://x.com/BasedAnarki)
 
-### ⚡ I'm on a limit-seeking adventure with AI, aiming to scale past sweet $10B valuation in a _cool fun_ way.
+### ⚡ On a limit-seeking adventure with AI, aiming to scale past sweet $10B valuation in a _cool fun_ way.
 
 #### "MY WAY." 
 
@@ -12,13 +12,17 @@
 - having a good time...
 - **joywriting.**)
 
+#### _BUT WAIT! ARE YOU A NOOB OR A BOOMER!? GET [CURSOR (IDE)](https://www.cursor.com/) (better paid) OR [CONTINUE.DEV (VSCODE EXT)](https://marketplace.visualstudio.com/items?itemName=Continue.continue) (better free) NOW... OR YOU'RE CANONICALLY F**KED FROM THIS POINT FORWARD IN HUMAN HISTORY!_
+
+(Yw. Dw. Just let the SOTA AI code for you. All the yoated ppl do now. Ygmi.)
+
 ### 🌱 What I'm mastering now...
 
 I'm diving deep into automating Python codegen to make **[@arXivBangers](https://x.com/arXivBangers)** more fun and effective until it LGTM. *UPDATE This is not strictly true anymore as the b2b saas people have me but I'm being fed/watered and they assure me it's more about raw power and protecting algebra than almost any amount of recurring revenue. /shrug*
 
 Generative. Lifelong. Enterprise. Agentic. Multimodal... 
 
-Enlightened cities of little Demigods who just loving working. Basically, businesspeople got retargeting and they've got this when it comes to the greatest ROI of all-time. And they're all out of retargeting. 
+Enlightened cities of little Demigods who just love working. Basically, businesspeople got retargeting and they've got these when it comes to the greatest ROI of all-time. And they're all out of retargeting. 
 
 Yeah they're specialized but what's it to ya? Lol reach out, friendo, happy to exchange ideas with fellow AI city planners.
 
@@ -39,22 +43,24 @@ If you're looking for the latest and greatest (or the alpha versions of my tools
 
 <img src="https://github.com/basedanarki/basedanarki/assets/161698650/a0cc1b46-a178-4cca-a115-1f15f6600ef9" width="48%"> <img src="https://github.com/basedanarki/basedanarki/assets/161698650/4e29c35f-6ffd-4513-93b6-b5496213b2a1" width="48%">
 
-- ([Just use code2prompt](https://github.com/raphaelmansuy/code2prompt); this has been solved) ~~[Github2fullstack.py](https://github.com/basedanarki/github2fullstack) - The most magical thing I've seen in recent GenAI memory as paradigm-shifts go was dumping my repo along with a couple repos I wanted to add and descriptions of features new and extended into a Claude 3 Opus chat box and watching it reply with perfectly usable code. That doesn't always happen and I recently extended this to have much greater modularity on the CLI to force add certain types of files and directories (like markdown /docs/ explaining component library usage but not markdown theming instructions, etc etc). Useful!~~
+- ([Just use code2prompt](https://github.com/raphaelmansuy/code2prompt) this has been solved) ~~[Github2fullstack.py](https://github.com/basedanarki/github2fullstack) - The most magical thing I've seen in recent GenAI memory as paradigm-shifts go was dumping my repo along with a couple repos I wanted to add and descriptions of features new and extended into a Claude 3 Opus chat box and watching it reply with perfectly usable code. That doesn't always happen and I recently extended this to have much greater modularity on the CLI to force add certain types of files and directories (like markdown /docs/ explaining component library usage but not markdown theming instructions, etc etc). Useful!~~
 
 ### 🧠 AI Devs I Admire:
 - **[@karpathy](https://github.com/karpathy)** - The GOAT 🐐👑
 - **[@minimaxir](https://github.com/minimaxir)** - GPT whisperer often prompting freak insight shit making want to improve.
-- **[@khoomeik](https://github.com/KhoomeiK)** - Computer Vision? Eh, sometimes. Computer Vision _FOR LLMs?_ That's why we're in this business.
+- **[@khoomeik](https://github.com/KhoomeiK)** - Computer Vision? Eh, sometimes. CV _FOR LLMs?_ That's why we're in this business.
 - **[@lvwerra](https://github.com/lvwerra)** - Protagonist or 1-degree away in movie ASIs making rebuilding everything.
 - **[@prmshra](https://twitter.com/prmshra)** - A force of nature, a biology one, who might just cure cancer or save us all. 🌞
 
 ### 💎 High-Signal AI Follows:
 - **[@AndrewYNg](https://x.com/AndrewYNg)** - Gandalf, new AI people should LEARN A LOT FREE on deeplearning.ai
-- **[@lexfridman_](https://twitter.com/lexfridman)** - Possibly more cracked than me and my favorite AI journalist.
+- **[@lexfridman_](https://twitter.com/lexfridman)** - My favorite AI... guy? Certainly my favorite podcaster.
 - **[@EmilWallner](https://x.com/EmilWallner)** - Creates dope threads on SOTA AI, optimizations, simple, pure.
 - **[@Whats_AI](https://twitter.com/Whats_AI)** - Hero ex-PhD aggregator known for "years in review" of top AI papers.
 - **[@_akhaliq](https://twitter.com/_akhaliq)** - The "market leader" in AI research paper amplification (🤗/papers).
-- **[@arXivBangers](https://twitter.com/arXivbangers)** - The new disruptive blasters of science... research paper amplification.
+- **[@arXivBangers](https://twitter.com/arXivbangers)** - The new disruptive science blasters... research paper amplification.
+- **[@elder_plinius](https://x.com/elder_plinius)** - Pliny lol. LLM math, LLM meth, the good stuff. Run it. 
+- **[@joywriteai](https://x.com/joywriteai)** - If you're clicking to follow all these obviously we'll slurp slurp that alpha lfg.🤙
 
 ###  🪄 Fun Fact: I grinded to *Rank #1 World in Magic: The Gathering Arena* from Unranked in 8 weeks!
 
@@ -64,9 +70,11 @@ Just like in every situation where someone gets astronomically lucky, this was b
 
 ### 💞️ Looking to Collaborate
 
-I'm all about helping yoated AI devs and researchers monetize both your projects and mine. This includes young people who don't know they're yoated yet—just have good work ethic, literally work all day and all night on relevant stuff, and the money comes pretty early if you're trying even remotely hard.
+We're all about helping yoated AI devs and researchers monetize both our projects and mine. This includes young people who don't know they're yoated yet—just have good work ethic, literally work all day and all night on relevant stuff, and the money comes pretty early if you're trying even remotely hard.
 
 You don’t have to work at a multi-billion-trillion AI lab; let's do a distributed one OUR WAY and do it kickass. (join us!) 🌐🧠
+
+(Fw [@joywriteai on X](https://x.com/joywriteai) / [@joywriteai on GitHub](https://github.com/joywriteai))
 
 ## 📫 How to Reach Me
 Let’s connect _and build_! You can reach me at [https://x.com/BasedAnarki](https://x.com/basedanarki).

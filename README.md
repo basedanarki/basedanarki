@@ -2,7 +2,7 @@
 
 ### ⚡ I'm on a limit-seeking adventure with AI, aiming to scale past sweet $10B valuation in a _cool fun_ way.
 
-#### "MY WAY."
+#### "MY WAY." 
 
 - (Moisturized,
 - in my lane,

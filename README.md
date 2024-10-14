@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [@BasedAnarki](https://x.com/BasedAnarki)
 
-### ⚡ On a limit-seeking adventure with AI, aiming to scale past sweet $10B valuation in a _cool fun_ way.
+### ⚡ On a limit-seeking adventure with AI, aiming to scale past sweet decacornian valuation in a _cool fun_ way.
 
 #### "MY WAY." 
 

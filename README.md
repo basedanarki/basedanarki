@@ -70,15 +70,15 @@ Just like in every situation where someone gets astronomically lucky, this was b
 
 ### 💞️ Looking to Collaborate
 
-We're all about helping yoated AI devs and researchers monetize both our projects and mine. This includes young people who don't know they're yoated yet—just have good work ethic, literally work all day and all night on relevant stuff, and the money comes pretty early if you're trying even remotely hard.
+We're all about helping yoated AI researchers, developers, anime pfp freaks, artists, dreamer-doers, doer-builders, and other autists achieve the greatness you're destined for, and monetize. Especially young people who haven't self-actualized their yoatedness yet —just have good work ethic, literally work all days and most nights on interesting, directionally correct stuff... and the money comes easy just by trying really hard.
 
-You don’t have to work at a multi-billion-trillion AI lab; let's do a distributed one OUR WAY and do it kickass. (join us!) 🌐🧠
+You don’t have to work at a billions-printing, public-facing chatbot AI lab; let's do a distributed one OUR WAY and do it kickass. (join us!) 🌐🧠
 
-(Fw [@joywriteai on X](https://x.com/joywriteai) / [@joywriteai on GitHub](https://github.com/joywriteai))
+(fw [@joywriteai on X](https://x.com/joywriteai) / [@joywriteai on GitHub](https://github.com/joywriteai))
 
 ## 📫 How to Reach Me
 Let’s connect _and build_! You can reach me at [https://x.com/BasedAnarki](https://x.com/basedanarki).
 
-If you’re ready to disrupt the status quo with me, slide into my DMs, join the conversation, or just start by (c'mon c'mon run it up, baby) clicking the follow: https://github.com/basedanarki/
+If you’re ready to yeet the boomer status quo over your shoulder into the past where it belongs and FOOM, slide into my DMs, join the conversation, or just start by (c'mon run it up) clicking follow: https://github.com/basedanarki/
 
 ### ACCELERATE! 🧙‍♂️⏩

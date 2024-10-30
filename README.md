@@ -22,9 +22,9 @@ I'm diving deep into automating Python codegen to make **[@arXivBangers](https:/
 
 Generative. Lifelong. Enterprise. Agentic. Multimodal... 
 
-Enlightened cities of little Demigods who just love working. Basically, businesspeople got retargeting and they've got these when it comes to the greatest ROI of all-time. And they're all out of retargeting. 
+Enlightened cities, countries, datacenters full of Demigods who just love working. Work, work, work...
 
-Yeah they're specialized but what's it to ya? Lol reach out, friendo, happy to exchange ideas with fellow AI city planners.
+Yeah they're specialized but what's it to ya? Lol reach out, friendo, happy to exchange ideas with fellow AI city/country planners.
 
 (Talk to me about your data/reality so we can make it more useful, monetized, visible, *invisible*... if you've got $M's or think you're on track. Easy!)
 
@@ -37,9 +37,9 @@ Yeah they're specialized but what's it to ya? Lol reach out, friendo, happy to e
   
 ### Recent Open Source Contributions:
 
-If you're looking for the latest and greatest (or the alpha versions of my tools, since I'm guilty of leaving my toys scattered after playing with them most days), hit me up! Everybody I'm aware of using them has my Discord haha. Check out:
+If you're looking for the latest and greatest (or the alpha versions of my tools, since I'm guilty of leaving my toys scattered after playing with them most days), [dm me on X!](https://x.com/basedanarki) We can speak on Discord like unadults. Check out:
 
-- [AI Illustrator](https://github.com/basedanarki/AI-Illustrator) - Now updated to Stable Diffusion 3 with more dynamic prompts. (Note: Text generation might require a few attempts, but it's worth it!)
+- [AI Illustrator](https://github.com/basedanarki/AI-Illustrator) - Now updated to Stable Diffusion 3 with more dynamic prompts. The engine in this thing actually slaps; take a look.
 
 <img src="https://github.com/basedanarki/basedanarki/assets/161698650/a0cc1b46-a178-4cca-a115-1f15f6600ef9" width="48%"> <img src="https://github.com/basedanarki/basedanarki/assets/161698650/4e29c35f-6ffd-4513-93b6-b5496213b2a1" width="48%">
 

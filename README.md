@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [@BasedAnarki](https://x.com/BasedAnarki)
+# 👋 Hi, I'm [anarki](https://x.com/basedanarki)
 
 ### ⚡ On a limit-breaking adventure with AI, aiming to scale past sweet decacornian valuation in a _cool fun_ way.
 

@@ -64,7 +64,7 @@ If you're looking for the latest and greatest (or the alpha versions of my tools
 
 Just like in every situation where someone gets astronomically lucky, this was based on timing. I will not be defending this or any belt you'd know of soon —look at how fast AI, everything, is popping off! _FOOM, GO, FOOM, GET IT! HYPERPARAMETERS GRIP 'EM AND RIP 'EM!_ But not in MTG.
 
-### 😄 Pronouns: Dude, DUDE, King, Kingaling (all rhyming King derivatives so far so good)
+### 😄 Pronouns: Dude, DUDE, King, Kingaling (anything that rhymes with king is ok)
 
 ### 💞️ Looking to Collaborate
 

@@ -16,7 +16,9 @@
 
 ### 🌱 What I'm mastering now...
 
-I'm diving deep into automating Python codegen to make **[@arXivBangers](https://x.com/arXivBangers)** more fun and effective until it LGTM. *UPDATE This is not strictly true anymore as the b2b saas people have me but I'm being fed/watered and they assure me it's more about raw power and protecting algebra than almost any amount of recurring revenue. /shrug*
+I'm diving deep into automating Python codegen to make **[@arXivBangers](https://x.com/arXivBangers)** more fun and effective until it LGTM. 
+
+*UPDATE This is not strictly true anymore as the b2b saas people have me but I'm being fed/watered and they assure me it's more about raw power and protecting algebra than almost any amount of recurring revenue. /shrug*
 
 Generative. Lifelong. Enterprise. Agentic. Multimodal... 
 

@@ -16,9 +16,7 @@
 
 ### 🌱 What I'm mastering now...
 
-I'm diving deep into automating Python codegen to make **[@arXivBangers](https://x.com/arXivBangers)** more fun and effective until it LGTM. 
-
-*UPDATE This is not strictly true anymore as the b2b saas people have me but I'm being fed/watered and they assure me it's more about raw power and protecting algebra than almost any amount of recurring revenue. /shrug*
+I'm exploring automating Python research and codegen to make **[@arXivBangers](https://x.com/arXivBangers)** more fun and effective. *UPDATE This is not strictly true anymore as the b2b saas people have me but I'm being fed/watered and they assure me it's more about raw power and protecting algebra than almost any amount of recurring revenue. TypeScript is goated btw. /shrug*
 
 Generative. Lifelong. Enterprise. Agentic. Multimodal... 
 
@@ -30,9 +28,7 @@ Yeah they're specialized but what's it to ya? Lol reach out, friendo, happy to e
 
 ### Always On My Mind:
 
-- **Our Forward-Looking Multimodal Stack** --> conversion-oriented enterprise content generation with a strong background in SEO and organic discovery optimization. Directing attention for fun and profit.
-  - This includes increasingly valuing LM Discovery Optimization as AI labs with widely adopted LLMs like [@OpenAI (Chat-GPT)](https://github.com/openai), [@Anthropic (Claude)](https://github.com/anthropics), [@xAI (Grok)](https://github.com/xai-org), [@Meta (Facebook/Llama)](https://github.com/facebook), *and their loyal agentic wrappers* continue to eat "manual" human discovery processes.
-  - [Palantir's 'k-llm' framework](https://www.youtube.com/watch?v=oW9svx4vT5g) framework is neat... Mixture of Possibly Great Ideas ya gotta love it. GenAI is so *fun.* 🧠
+- **Our Verticalized Agent Multimodal Stack** --> Conversion-oriented enterprise content generation with a strong background in SEO and organic discovery optimization. Directing attention for fun and profit.
 - **Helping the Next Generation Capture Attention, Build Influence, & Monetize Sweetly:** Engaging with zoomers who feel an urgency and possess a vibrant energy, yet aren't subject matter experts (SMEs) in AI, swe, or otherwise... yet. There's so much they can do and generally, they don’t know WTF to do—LOL.
   
 ### Recent Open Source Contributions:
@@ -70,9 +66,9 @@ Just like in every situation where someone gets astronomically lucky, this was b
 
 ### 💞️ Looking to Collaborate
 
-We're all about helping yoated AI researchers, developers, anime pfp freaks, artists, dreamer-doers, doer-builders, and other autists achieve the greatness you're destined for, and monetize. Especially young people who haven't self-actualized their yoatedness yet —just have good work ethic, literally work all days and most nights on interesting, directionally correct stuff... and the money comes easy just by trying really hard.
+We're all about helping yoated anime pfp freaks, AI researchers, developers, artists, dreamer-doers, doer-builders, and miscellaneous autists achieve the greatness you're destined for, and monetize. Especially young people who aren't yet fully embodying their inner-yoat yet —just have good work ethic, literally work all days and most nights on interesting, directionally correct stuff... and the money comes easy just by trying really hard.
 
-You don’t have to work at a billions-printing, public-facing chatbot AI lab; let's do a distributed one OUR WAY and do it kickass. (join us!) 🌐🧠
+You don’t have to work at a billions-printing, public-facing chatbot AI lab; it's more fun and interesting building a distributed coallition of labs OUR WAY and doing it kickass. (join us!) 🌐🧠
 
 (fw [@joywriteai on X](https://x.com/joywriteai) / [@joywriteai on GitHub](https://github.com/joywriteai))
 

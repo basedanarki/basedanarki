@@ -31,7 +31,7 @@ Yeah they're specialized but what's it to ya? Lol reach out, friendo, happy to e
 - **Our Forward-Looking Multimodal Stack** --> conversion-oriented enterprise content generation with a strong background in SEO and organic discovery optimization. Directing attention for fun and profit.
   - This includes increasingly valuing LM Discovery Optimization as AI labs with widely adopted LLMs like [@OpenAI (Chat-GPT)](https://github.com/openai), [@Anthropic (Claude)](https://github.com/anthropics), [@xAI (Grok)](https://github.com/xai-org), [@Meta (Facebook/Llama)](https://github.com/facebook), *and their loyal agentic wrappers* continue to eat "manual" human discovery processes.
   - [Palantir's 'k-llm' framework](https://www.youtube.com/watch?v=oW9svx4vT5g) framework is neat... Mixture of Possibly Great Ideas ya gotta love it. GenAI is so *fun.* 🧠
-- **Helping the Next Generation with Monetization:** Engaging with zoomers who feel an urgency and possess a vibrant energy, yet aren't subject matter experts (SMEs) in AI, swe, or otherwise... yet. There's so much they can do and generally, they don’t know WTF to do—LOL.
+- **Helping the Next Generation Capture Attention, Build Influence, & Monetize Sweetly:** Engaging with zoomers who feel an urgency and possess a vibrant energy, yet aren't subject matter experts (SMEs) in AI, swe, or otherwise... yet. There's so much they can do and generally, they don’t know WTF to do—LOL.
   
 ### Recent Open Source Contributions:
 

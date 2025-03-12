@@ -12,8 +12,6 @@
 - having a good time...
 - **joywriting.**)
 
-#### _BUT WAIT! ARE YOU A NOOB, A BOOMER, OR SOMEWHERE IN BETWEEN!? GET [CURSOR (IDE)](https://www.cursor.com/) (better paid) NOW... OR YOU'RE CANONICALLY F**KED FROM THIS POINT FORWARD IN HUMAN HISTORY!_
-
 (Yw. Dw. Just let the SOTA AI code for you. All the yoated ppl do now. Ygmi.)
 
 ### 🌱 What I'm mastering now...

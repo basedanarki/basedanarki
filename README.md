@@ -28,7 +28,7 @@
 
 I have been building a lot but I can't talk about it. ([dm me on X!](https://x.com/basedanarki)) 
 
-- [AI Illustrator](https://github.com/basedanarki/AI-Illustrator) - Stable Diffusion 3 with dynamic prompts. The ideation context generation engine in this kinda slaps ngl. Open the Notebook and mess around! 
+- [AI Illustrator](https://github.com/basedanarki/AI-Illustrator) - Stable Diffusion 3 with dynamic prompts. The **context generatoor ideation engine** in this slaps. Open the Notebook and mess around if you want to SEE your ideas varied and expanded in front of you! (When I have kids we will play with stuff like this!)
 
 <img src="https://github.com/basedanarki/basedanarki/assets/161698650/a0cc1b46-a178-4cca-a115-1f15f6600ef9" width="48%"> <img src="https://github.com/basedanarki/basedanarki/assets/161698650/4e29c35f-6ffd-4513-93b6-b5496213b2a1" width="48%">
 

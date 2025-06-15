@@ -79,7 +79,7 @@ We're all about helping yoated anime pfp freaks, AI researchers, developers, art
 
 ## Be smart. Have fun. Go vertical.*
 
-(fw [@joywriteai on X](https://x.com/joywriteai) / [@joywriteai on GitHub](https://github.com/joywriteai)) (fake company btw. but the vibes are real)
+(fw [@joywriteai on X](https://x.com/joywriteai) / [@joywriteai on GitHub](https://github.com/joywriteai))
 
 ## 📫 How to Reach Me
 Let’s connect _and build_! You can reach me at [https://x.com/BasedAnarki](https://x.com/basedanarki).

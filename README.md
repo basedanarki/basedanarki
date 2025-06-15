@@ -88,6 +88,6 @@ Quit acting so boomerish, let's FOOM!
 
 Slide into my DMs, join the conversation, or even... 
 
-FREE for a limited time, you can get a lifetime membership -starts right now- to perhaps someday ***INSANE LEGEND STATUS*** as ["one of the first few people who noticed anarki on github."](https://github.com/basedanarki/)
+FREE for a limited time, you can get a lifetime membership -starts right now- to perhaps someday ***INSANE LEGEND STATUS*** as ["one of the first few people who noticed anarki OFFICIALLY and followed him on github."](https://github.com/basedanarki/)
 
 ### ACCELERATE! ❤️⏩

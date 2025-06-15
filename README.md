@@ -62,8 +62,6 @@ Winning. **Positive-sum games only for the rest of my days, please.**
 - **[@arXivBangers](https://twitter.com/arXivbangers)** - The new disruptive science blasters... research paper amplification.
 - **[@joywriteai](https://x.com/joywriteai)** - If you're clicking to follow all these obviously we'll slurp slurp that alpha lfg.🤙
 
-Just like in every situation where someone gets astronomically lucky, this was based on timing. I will not be defending this or any belt you'd know of soon —look at how fast AI, everything, is popping off! _FOOM, GO, FOOM, GET IT! HYPERPARAMETERS GRIP 'EM AND RIP 'EM!_ But not in MTG.
-
 ## 😄 Pronouns: Dude, DUDE, King
 
 ### 💞️ Open for Collaborations!

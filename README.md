@@ -75,10 +75,9 @@ We're all about helping yoated anime pfp freaks, AI researchers, developers, art
 #### I strongly believe that it is more fun to only make  $100s of millions  with your absolute squad,
 #### while chasing your unbridled dreams of a brighter future and a few $ Billions,
 #### building OUR THING up from nothing, 
-#### than it is to collect $10ms of millions just for showing up and living a career full of layups into $100s of millions 
-#### while doing the necessary busywork to build someone else's AGI. 
-
-##### (Or worse, lmfao, obviously)
+#### than it is to collect $10ms of millions just for showing up and living a life full of layups into $100s of millions 
+#### while doing "necessary" busywork to build someone else's AGI. 
+##### (Or worse, lmfao...)
 
 ## Be smart. Have fun. Go vertical.*
 

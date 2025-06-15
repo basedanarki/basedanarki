@@ -19,7 +19,7 @@
 
 - **Verticalized, Increasingly Autonomous, Multimodal, AI:** -->
 
-  My customers made billions back then because we locked in on empire buildingly conversion-oriented content generation systems. Alas, I live and breathe for increasingly artistic symbiosis between man and machine. (imagination! profitably!) 
+  My customers made billions back then because we locked in on empire buildingly conversion-oriented content generation systems. Alas, I live and breathe for increasing artistic symbiosis between human and machine. (imagination! profitably!) 
 - **Helping the Next Generation Get Their First Big Wins, Gain Influence, & Aura Farm ***Congruently***:**
 
   Engaging zoomers living with URGENCY unmatched, of vibrant energy, dying to live a better life, yet aren't really good at anything... yet. It has never been this easy to live a blessed life... and yet zoomers don't know WTF to do. LOL. ***(MONETIZE LADS!!!)***
